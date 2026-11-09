@@ -1,6 +1,6 @@
 // ===== EDIT THESE =====
-const WHATSAPP = '923001234567'; // country code + number, no "+"
-const EMAIL = 'hello@example.com';
+const WHATSAPP = '923107454676'; // country code + number, no "+"
+const EMAIL = 'motech508@gmail.com';
 const PRICE = 500;
 // ======================
 gsap.registerPlugin(ScrollTrigger);
